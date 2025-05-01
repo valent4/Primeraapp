@@ -9,7 +9,7 @@ import base64
 st.title("Conversión de Texto a Audio")
 
 # Imagen de portada (asegúrate de tener 'caperucita.png' en tu carpeta)
-image = Image.open('caperucita.png')
+image = Image.open('caperucita.jpg')
 st.image(image, width=350)
 
 with st.sidebar:
